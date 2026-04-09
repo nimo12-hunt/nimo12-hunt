@@ -1,8 +1,14 @@
 <h1 align="left">Hi, I'm Debele! 👋</h1>
 <h3 align="left">Software Engineer | Full-Stack Dev | MInT Intern</h3>
 
----
-
+<p align="left">
+  <a href="https://linkedin.com/in/debele-Adugna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://debele.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 <table align="center" border="0">
   <tr>
     <td valign="top" width="50%" align="left">
@@ -12,7 +18,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
         <br><br>
@@ -20,7 +26,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40"/>
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/>
@@ -40,22 +47,12 @@
 </table>
 
 ---
-
-<p align="left">
-  <a href="https://linkedin.com/in/debele-dejene" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://debele.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 👤 About Me
 
-> 4th-year Software Engineering student at Jimma University & MInT Intern, passionate about building digital solutions for Ethiopia.  
-> Love MERN stack, cloud, and AI projects. Big fan of teamwork, code quality, and learning new tech!
+> 🎓 **4th-year Software Engineering student** at Jimma University & **MInT Intern**.  
+> 📱 **Android Developer** specializing in **Java, Kotlin, and Firebase** for real-time mobile solutions.  
+> 💻 **Full-Stack Enthusiast** with experience in the MERN stack and real-time communication via **Socket.io**.  
+> 🚀 Passionate about building scalable systems and digital infrastructure.
 ---
 ## 🔭 Current Focus
 - 🏢 **Internship:** Software Engineering Intern at MInT.
@@ -71,7 +68,7 @@
 </div>
 
 ---
-
 <p align="center">
-  <b>“Building Ethiopia's Future, One System at a Time.”</b>
+  <b>“Turning Ideas into Scalable Digital Realities.”</b>
 </p>
+
