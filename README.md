@@ -1,101 +1,77 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0b2a4a&height=250&section=header&text=DEBELE%20DEJENE&fontSize=80&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20|%20SYSTEMS%20ARCHITECT%20|%20MInT%20INTERN&descAlignY=60&descSize=20&fontColor=ffffff" width="100%" />
-
-  <br />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3500&pause=800&color=078930&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Debele!;MERN+%7C+Spring+Boot+%7C+React+Native;MInT+Intern+%7C+Building+Ethiopia's+Future" alt="Typing SVG" />
-  </a>
-
-  <br />
-
-  <p align="center">
-    <a href="mailto:debele.dejene@mint.gov.et"><img src="https://img.shields.io/badge/Official%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/debele-dejene"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/nimo12-hunt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://debele.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  </p>
-</div>
+<h1 align="left">Hi, I'm Debele! 👋</h1>
+<h3 align="left">Software Engineer | Full-Stack Dev | MInT Intern</h3>
 
 ---
 
-**4th-year Software Engineering student (Jimma University) & Software Engineering Intern (MInT).**
-
-- MERN, React Native, Spring Boot full-stack dev  
-- AI for agriculture, smart trading with SMC  
-- Passionate about building Ethiopia's future  
-
----
-
-### 🚩 Featured Projects
-
-- [Smart Visitor Guidance System](https://github.com/nimo12-hunt/smart-visitor-guidance) – Digital transformation for MInT HQ using MERN and AI.
-- [Crop Disease Diagnostics AI](https://github.com/nimo12-hunt/crop-disease-diagnostics) – React Native & ML tool for agriculture.
-- [Trading Dashboard](https://github.com/nimo12-hunt/smc-trading-dashboard) – Real-time SMC trading analytics.
-
----
-
-### 🛠️ Technology Stack
-
-<div align="center">
-
-<table>
-<tr>
-<td valign="top" align="center">
-<b>Frontend</b><br>
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<table align="center" border="0">
+  <tr>
+    <td valign="top" width="50%" align="left">
+      <h2 align="left">🚀 Tech Stack</h2>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40"/>
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40"/>
+      </p>
+    </td>
+    <td valign="center" width="50%" align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake" width="100%"/>
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt6bm96bm96bm96bm96bm96bm96bm96bm96bm96JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF">
 </td>
-<td valign="top" align="center">
-<b>Backend</b><br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-</td>
-<td valign="top" align="center">
-<b>Database & Infra</b><br>
-<img src="https://img.shields.io/badge/MongoDB-47A033?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</td>
-</tr>
+  </tr>
 </table>
 
-</div>
-
 ---
 
-### 📊 System Intelligence & Performance Graphs
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=nimo12-hunt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimo12-hunt&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimo12-hunt&theme=tokyonight&hide_border=true" width="99%" />
-
-</div>
-
----
-
-### 👋 About Me
-
-- 🛠️ Love designing scalable software for real-world problems  
-- 🌱 Always learning: microservices, DevOps, ML  
-- ⚽ Football fan & coffee enthusiast ☕  
-- 🚀 Open to collaboration, mentorship, and geeky chats!
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nimo12-hunt&style=flat-square&color=blue" />
+<p align="left">
+  <a href="https://linkedin.com/in/debele-dejene" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://debele.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
+---
+
+## 👤 About Me
+
+> 4th-year Software Engineering student at Jimma University & MInT Intern, passionate about building digital solutions for Ethiopia.  
+> Love MERN stack, cloud, and AI projects. Big fan of teamwork, code quality, and learning new tech!
+---
+## 🔭 Current Focus
+- 🏢 **Internship:** Software Engineering Intern at MInT.
+- 🏗️ **Project:** Building a Smart Visitor Guidance System.
+- 💡 **Interests:** MERN Stack, AI/ML, and Blockchain.
+---
+## 🔥 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimo12-hunt&theme=dracula&fire=FF5E00&ring=FFD700&currStreakNum=FFD700" width="48%" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimo12-hunt&theme=react-dark&bg_color=0d1117&hide_border=true" width="48%" />
+</div>
+
+---
+
 <p align="center">
-  <b>“Building Ethiopia’s Future, One System at a Time.”</b>
+  <b>“Building Ethiopia's Future, One System at a Time.”</b>
 </p>
