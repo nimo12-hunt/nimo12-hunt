@@ -47,12 +47,6 @@
 </table>
 
 ---
-## 👤 About Me
-
-> 🎓 **4th-year Software Engineering student** at Jimma University & **MInT Intern**.  
-> 📱 **Android Developer** specializing in **Java, Kotlin, and Firebase** for real-time mobile solutions.  
-> 💻 **Full-Stack Enthusiast** with experience in the MERN stack and real-time communication via **Socket.io**.  
-> 🚀 Passionate about building scalable systems and digital infrastructure.
 ---
 ## 🔭 Current Focus
 - 🏢 **Internship:** Software Engineering Intern at MInT.
