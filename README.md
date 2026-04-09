@@ -12,7 +12,7 @@
 <table align="center" border="0">
   <tr>
     <td valign="top" width="50%" align="left">
-      <h2 align="left">🚀 Tech Stack</h2>
+      <h2 align="left">🚀 Tech Stack </h2>
       <p align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
