@@ -21,9 +21,17 @@
 
 **4th-year Software Engineering student (Jimma University) & Software Engineering Intern (MInT).**
 
-- MERN, React Native, Spring Boot full-stack dev
-- AI for agriculture, smart trading with SMC
-- Passionate about building Ethiopia's future
+- MERN, React Native, Spring Boot full-stack dev  
+- AI for agriculture, smart trading with SMC  
+- Passionate about building Ethiopia's future  
+
+---
+
+### 🚩 Featured Projects
+
+- [Smart Visitor Guidance System](https://github.com/nimo12-hunt/smart-visitor-guidance) – Digital transformation for MInT HQ using MERN and AI.
+- [Crop Disease Diagnostics AI](https://github.com/nimo12-hunt/crop-disease-diagnostics) – React Native & ML tool for agriculture.
+- [Trading Dashboard](https://github.com/nimo12-hunt/smc-trading-dashboard) – Real-time SMC trading analytics.
 
 ---
 
@@ -65,18 +73,28 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=nimo12-hunt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
 
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimo12-hunt&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
-  <!-- Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimo12-hunt&theme=tokyonight&hide_border=true" width="99%" />
 
 </div>
 
 ---
+
+### 👋 About Me
+
+- 🛠️ Love designing scalable software for real-world problems  
+- 🌱 Always learning: microservices, DevOps, ML  
+- ⚽ Football fan & coffee enthusiast ☕  
+- 🚀 Open to collaboration, mentorship, and geeky chats!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nimo12-hunt&style=flat-square&color=blue" />
+</p>
 
 <p align="center">
   <b>“Building Ethiopia’s Future, One System at a Time.”</b>
