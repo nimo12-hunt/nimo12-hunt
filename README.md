@@ -4,61 +4,59 @@
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=3500&pause=800&color=078930&center=true&vCenter=true&width=700&lines=EXECUTING+MERN+FULL-STACK;JAVA+SPRING+BOOT+MASTER;MINISTRY+OF+INNOVATION+INTERN;INSTITUTIONAL+TRADER+(SMC);BUILDING+ETHIOPIA'S+FUTURE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3500&pause=800&color=078930&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Debele!;MERN+%7C+Spring+Boot+%7C+React+Native;MInT+Intern+%7C+Building+Ethiopia's+Future" alt="Typing SVG" />
   </a>
 
   <br />
 
   <p align="center">
-    <a href="mailto:debele.dejene@mint.gov.et"><img src="https://img.shields.io/badge/Official_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/debele-dejene"><img src="https://img.shields.io/badge/LinkedIn_Pro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/nimo12-hunt"><img src="https://img.shields.io/badge/GitHub_Terminal-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://debele.vercel.app"><img src="https://img.shields.io/badge/Cloud_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="mailto:debele.dejene@mint.gov.et"><img src="https://img.shields.io/badge/Official%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/debele-dejene"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/nimo12-hunt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://debele.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### 🏛️ Executive Identity & Professional Mission
-> "Engineering scalable digital ecosystems for the Federal Democratic Republic of Ethiopia."
+**4th-year Software Engineering student (Jimma University) & Software Engineering Intern (MInT).**
 
-I am a **4th-Year Software Engineering** candidate at **Jimma University** and a **Software Engineering Intern** at the **Ministry of Innovation and Technology (MInT)**. My work focuses on the intersection of national-scale digital transformation and advanced full-stack architecture.
-
-* 🔭 **Mission Objective:** Engineering the **Smart Visitor Guidance System** for MInT HQ.
-* ⚡ **Core Specialization:** Full-Stack Architecture (MERN), Mobile (React Native), & Enterprise Java.
-* 🤖 **AI Strategy:** Developing Supervised Learning models for **Crop Disease Diagnostics**.
-* 📈 **Financial Logic:** Analyzing Global Markets through **Smart Money Concepts (SMC)**.
+- MERN, React Native, Spring Boot full-stack dev
+- AI for agriculture, smart trading with SMC
+- Passionate about building Ethiopia's future
 
 ---
 
-### 🛠️ The Technology Stack [Industrial Grade]
+### 🛠️ Technology Stack
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="33%" valign="top">
-        <h4 align="center"><b>📡 Frontend Engineering</b></h4>
-        <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-      </td>
-      <td width="33%" valign="top">
-        <h4 align="center"><b>⚙️ Backend & API</b></h4>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      </td>
-      <td width="33%" valign="top">
-        <h4 align="center"><b>💾 Persistence & Infrastructure</b></h4>
-        <img src="https://img.shields.io/badge/MongoDB-47A033?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+
+<table>
+<tr>
+<td valign="top" align="center">
+<b>Frontend</b><br>
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+</td>
+<td valign="top" align="center">
+<b>Backend</b><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+</td>
+<td valign="top" align="center">
+<b>Database & Infra</b><br>
+<img src="https://img.shields.io/badge/MongoDB-47A033?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -66,38 +64,20 @@ I am a **4th-Year Software Engineering** candidate at **Jimma University** and a
 ### 📊 System Intelligence & Performance Graphs
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nimo12-hunt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=078930" />
-      </td>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimo12-hunt&layout=compact&theme=tokyonight&hide_border=true&title_color=078930" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-<br />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nimo12-hunt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimo12-hunt&theme=tokyonight&bg_color=0b2a4a&hide_border=true&color=078930&area=true&height=300" width="100%" />
-</div>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimo12-hunt&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimo12-hunt&theme=tokyonight&hide_border=true&background=0b2a4a&stroke=078930&ring=078930&fire=078930" width="100%" />
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimo12-hunt&theme=tokyonight&hide_border=true" width="99%" />
+
 </div>
 
 ---
 
-### 🧪 Technical Skill Matrix [Advanced Visualization]
-
-```javascript
-const SKILLS = {
-  MERN_Stack:    "████████████████████ 95%",
-  Java_Enterprise: "████████████████░░░░ 80%",
-  Android_Kotlin:  "███████████████░░░░░ 75%",
-  System_Design:   "█████████████████░░░ 85%",
-  Testing_QA:      "██████████████░░░░░░ 70%",
-  SMC_Trading:     "█████████████████░░░ 85%"
-};
+<p align="center">
+  <b>“Building Ethiopia’s Future, One System at a Time.”</b>
+</p>
