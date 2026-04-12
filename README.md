@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Debele! 👋</h1>
+<h1 align="left">👋 Hi there, I'm Debele! </h1>
 <h3 align="left">Software Engineer | Full-Stack Dev | MInT Intern</h3>
 
 <p align="left">
